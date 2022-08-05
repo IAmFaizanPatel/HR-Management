@@ -1,0 +1,15 @@
+.rated {
+  color: gold;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+}
+.unRated {
+  color: #ccc;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

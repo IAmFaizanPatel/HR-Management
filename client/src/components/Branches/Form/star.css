@@ -1,0 +1,17 @@
+.on {
+  color: gold;
+  font-size: 2rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+}
+.off {
+  color: gray;
+  font-size: 2rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
